@@ -1,0 +1,3 @@
+com\rmg\workflow\Application.class
+com\rmg\workflow\config\SecurityConfig.class
+com\rmg\workflow\controller\DemoController.class
